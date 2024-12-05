@@ -8,4 +8,16 @@ Please update or upgrade the pip and python API appropriately. </br>
 This program has been tested to successfully run on: Windows 10, Python 3.11.7. </br>
 
 Sample output can be viewed at '/sample_output' directory. </br>
-Original image used for sampling in this program can be viewed at '/dataset/coffeecup/ori_data' directory.
+Original image used for sampling in this program can be viewed at '/dataset/coffeecup/ori_data' directory. </br>
+
+Package needed to run this program:
+
+numpy </br>
+matplotlib </br>
+scikit-image
+
+To install:
+
+$pip install numpy </br>
+$pip install matplotlib </br>
+$pip install scikit-image
